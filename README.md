@@ -15,4 +15,4 @@ Real-time United Airlines operations dashboard — live flight map, hub delays, 
 
 Chicago roots · Los Angeles based
 
-[![X](https://img.shields.io/badge/@jonahberg-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jonahberg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonahberg)
+[![X](https://img.shields.io/badge/@jonahberg-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jonahberg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonahberg) [![Website](https://img.shields.io/badge/jonahberg.com-222222?style=flat-square&logo=safari&logoColor=white)](https://jonahberg.com)
